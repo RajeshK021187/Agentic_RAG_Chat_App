@@ -37,7 +37,6 @@ A chat system where users ask questions, and a smart AI (LLM) answers them using
 - **MySQL** – Structured relational database
 - **Ollama (e.g., qwen2.5)** – Local LLM
 - **Apache Airflow** – Workflow orchestration for data ingestion
-- **aiohttp / aiomysql** – Async processing and database access
 
 ---
 
